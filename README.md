@@ -1,4 +1,6 @@
 ### LSD-VSLAM
+本代码由LSD项目源码修改配置而来。[项目源地址](https://vision.in.tum.de/research/vslam/lsdslam?redirect=1)
+
 经过修改完善Ubuntu 16.04+ROS-kinetic下可直接编译的LSD算法包.
 
 安装过程如下：
